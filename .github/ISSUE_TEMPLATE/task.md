@@ -6,8 +6,6 @@ labels: ''
 assignees: ''
 ---
 
-Related EPIC: #1
-
 ### 💬 Describe the task
 A clear and concise description of what the task is about.
 
