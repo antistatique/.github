@@ -1,18 +1,18 @@
-### 💬 Describe the pull request / code changes
-A clear and concise description of what the pull request is about.
+### 💬 Describe the pull request/code changes
+_A clear and concise description of what the pull request is about._
 
 ### 🎟️ Jira
-This pull request is related to the following Jira issue(s):
+_This pull request is related to the following Jira issue(s):_
 
 ### 🔢 To Review
-Steps to review the PR:
+_Steps to review the PR:_
 1. Add some details for the reviewer here.
 
 ### 🔖 Does it need an entry in the CHANGELOG?
  - [ ] Update the "NEXT RELEASE" section of the `CHANGELOG.md`
 
 ### 📸 Screenshots
-If applicable, add screenshots to help explain the task.
+_If applicable, add screenshots to help explain the task._
 
 ### 📦 Ready to merge
 - [ ] The reviewer approves the pull request.
