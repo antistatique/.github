@@ -15,8 +15,6 @@ _Steps to review the PR:_
 _If applicable, add screenshots to help explain the task._
 
 ### 📦 Ready to merge
-- [ ] The reviewer approves the pull request.
 - [ ] The PR is covered by some tests. _(if applicable)_
-- [ ] Merges conflicts are resolved. _(if applicable)_
 
 [comment]: <> (Add others steps to review the PR if needed/applicable)
