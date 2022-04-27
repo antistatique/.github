@@ -17,4 +17,4 @@ _If applicable, add screenshots to help explain the task._
 - [ ] The PR is covered by some tests. _(if applicable)_
 
 [comment]: <> (Add steps to review the PR if needed/applicable)
-[comment]: <> (Add others conditiosn to allow the PR to be merged if needed/applicable)
+[comment]: <> (Add others conditions to allow the PR to be merged if needed/applicable)
