@@ -7,13 +7,11 @@ _This pull request is related to the following Jira issue(s):_
 ### 🔢 To Review
 _Steps to review the PR:_
 
-### 📝 Does it need an entry in the CHANGELOG?
- - [ ] Update the "NEXT RELEASE" section of the `CHANGELOG.md`
-
 ### 📸 Screenshots
 _If applicable, add screenshots to help explain the task._
 
-### 📦 Ready to merge
+### 📝 Checklist
+- [ ] Update the "NEXT RELEASE" section of the `CHANGELOG.md`. _(if applicable)_
 - [ ] The PR is covered by some tests. _(if applicable)_
 
 [comment]: <> (Add steps to review the PR if needed/applicable)
