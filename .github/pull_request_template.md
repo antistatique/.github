@@ -11,7 +11,7 @@ _Steps to review the PR:_
 _If applicable, add screenshots to help explain the task._
 
 ### 📝 Checklist
-- [ ] Update the "NEXT RELEASE" section of the `CHANGELOG.md`. _(if applicable)_
+- [ ] Update the "Unreleased" section of the `CHANGELOG.md`.  _(if applicable)_
 - [ ] The PR is covered by some tests. _(if applicable)_
 
 [comment]: <> (Add the Jira ticket if needed/applicable)
