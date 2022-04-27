@@ -14,6 +14,6 @@ _If applicable, add screenshots to help explain the task._
 - [ ] Update the "NEXT RELEASE" section of the `CHANGELOG.md`. _(if applicable)_
 - [ ] The PR is covered by some tests. _(if applicable)_
 
-[comment]: <> (Add the Jira issue)
+[comment]: <> (Add the Jira ticket if needed/applicable)
 [comment]: <> (Add steps to review the PR if needed/applicable)
 [comment]: <> (Add others conditions to allow the PR to be merged if needed/applicable)
