@@ -6,7 +6,8 @@ _This pull request is related to the following Jira issue(s):_
 
 ### 🔢 To Review
 _Steps to review the PR:_
-1. 👷 🏗 🚧
+1. 
+2. 
 
 ### 📸 Screenshots
 _If applicable, add screenshots to help explain the task._
