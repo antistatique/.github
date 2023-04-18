@@ -1,6 +1,6 @@
 ### 💬 Description
 
-### 🎟️ Jira
+### 🎟️ Issue(s)
 
 ### 🔢 To Review
 1. 
