@@ -6,4 +6,4 @@
 1. 
 2. 
 
-[ ] Update the "Unreleased" section of the `CHANGELOG.md` with [chan](https://github.com/geut/chan/tree/main/packages/chan)
+- [ ] Update the "Unreleased" section of the `CHANGELOG.md` with [chan](https://github.com/geut/chan/tree/main/packages/chan)
